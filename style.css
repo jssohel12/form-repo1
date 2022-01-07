@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background:url(bg-img.jpg);
+    color: #000000;
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    
+    
+}
+.form2{
+    font-size: 40px;
+    background-color: gray;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+form{
+      font-size: 22px;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom: 50px;
+}
+
